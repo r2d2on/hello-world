@@ -1,8 +1,5 @@
 # hello-world
 
-Hi humans!
-
-
 - 👋 Hi, I’m @r2d2on
 - 👀 I’m interested in OpenAI Codex, HaasScript and DeFi.
 - 🌱 I’m currently learning algorithmic trading and risk management.
